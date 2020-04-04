@@ -57,3 +57,5 @@ if __name__ == '__main__':
     print(samir.olhos)
     print(samir.cumprimentar())
     print(luciano.cumprimentar())
+'''
+'''
